@@ -77,7 +77,7 @@
     "workbox-webpack-plugin": "5.1.4"
   },
   "scripts": {
-    "start": "set PORT=9000 && react-app-rewired start",
+    "start": "set HOST=0.0.0.0 && react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test"
   },
