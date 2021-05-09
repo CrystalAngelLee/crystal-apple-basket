@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+MOBXTOKEN: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
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "crystal-apple-busket",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
